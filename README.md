@@ -8,6 +8,7 @@ solved are uploaded here.
 <tr>
 <th>Date</th>
 <th>Problem Name</th>
+<th>Solution Link</th>
 </tr>
 <tr>
 <td>6 January 2023</td>
@@ -15,6 +16,7 @@ solved are uploaded here.
 </tr>
 <tr>
 <td>7 January 2023</td>
-<td><a href="https://practice.geeksforgeeks.org/problems/da62a798bca208c7a678c133569c3dc7f5b73500/1">Flattening a Linked List</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/da62a798bca208c7a678c133569c3dc7f5b73500/1">Flattening a Linked List</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Flatten_A_Linked_List.cpp">Solution</a><td>
 </tr>
 </table>
