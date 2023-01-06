@@ -13,4 +13,8 @@ solved are uploaded here.
 <td>6 January 2023</td>
 <td><a href="https://practice.geeksforgeeks.org/problems/1646a9b5169d7571cf672f2a31533af083d1f479/1">Shortest Prime Path</a></td>
 </tr>
+<tr>
+<td>7 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/da62a798bca208c7a678c133569c3dc7f5b73500/1">Flattening a Linked List</td>
+</tr>
 </table>
