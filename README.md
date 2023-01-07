@@ -20,4 +20,9 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/da62a798bca208c7a678c133569c3dc7f5b73500/1">Flattening a Linked List</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Flatten_A_Linked_List.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>8 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/e0059183c88ab680b2f73f7d809fb8056fe9dc43/1">Absolute difference divisible by K</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Absolute_Diff_Divisiable_By_K.cpp">Solution</a></td>
+</tr>
 </table>
