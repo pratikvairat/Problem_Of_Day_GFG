@@ -12,7 +12,7 @@ solved are uploaded here.
 </tr>
 <tr>
 <td>5 January 2023</td>
-<td>a href="https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1">Find the longest string</a></td>
+<td><a href="https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1">Find the longest string</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/LongestString.cpp">Solution</td>
 <tr>
 
