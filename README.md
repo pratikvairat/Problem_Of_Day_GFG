@@ -11,6 +11,11 @@ solved are uploaded here.
 <th>Solution Link</th>
 </tr>
 <tr>
+<td>5 January 2023</td>
+<td>a href="https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1">Find the longest string</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/LongestString.cpp">Solution</td>
+<tr>
+
 <td>6 January 2023</td>
 <td><a href="https://practice.geeksforgeeks.org/problems/1646a9b5169d7571cf672f2a31533af083d1f479/1">Shortest Prime Path</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Shortest_Prime_Path.cpp">Solution</td>
