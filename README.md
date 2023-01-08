@@ -30,4 +30,9 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/e0059183c88ab680b2f73f7d809fb8056fe9dc43/1">Absolute difference divisible by K</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Absolute_Diff_Divisiable_By_K.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>9 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/33af95e5935f1f2a0c3f5083c4b9d0db68e97bd4/1">Last Modified Bowl</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Last_Modified_Bowl.cpp">Solution</a></td>
+</tr>
 </table>
