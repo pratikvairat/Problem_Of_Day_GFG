@@ -35,4 +35,8 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/33af95e5935f1f2a0c3f5083c4b9d0db68e97bd4/1">Last Modified Bowl</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Last_Modified_Bowl.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>10 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/d7e0ce338b11f0be36877d9c35cc8dfad6636957/1">Transform To Sum Tree</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Transform_To_Sum_Tree.cpp">Solution</a></td>
 </table>
