@@ -39,4 +39,7 @@ solved are uploaded here.
 <td>10 January 2023</td>
 <td><a href="https://practice.geeksforgeeks.org/problems/d7e0ce338b11f0be36877d9c35cc8dfad6636957/1">Transform To Sum Tree</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Transform_To_Sum_Tree.cpp">Solution</a></td>
+<tr>
+<td>11 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1"> Make Array Elements Unique</a></td>
 </table>
