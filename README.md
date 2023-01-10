@@ -42,4 +42,5 @@ solved are uploaded here.
 <tr>
 <td>11 January 2023</td>
 <td><a href="https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1"> Make Array Elements Unique</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Make_array_Unique.cpp">Solution</a></td>
 </table>
