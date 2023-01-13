@@ -49,4 +49,11 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/86e609332c9ef4f6b8aa79db11a6c0808c4a1bca/1">Minimize The Sum</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Minimize_Sum.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>13 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/e9e2da3de3eb35679ca7e17b752ae877635f1a26/1">Count Lucky Permutation</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Count_Lucky_Permutation.cpp">Solution</a></td>
+</tr>
+
+
 </table>
