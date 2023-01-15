@@ -59,5 +59,9 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/maximum-number-of-toys/1">Maximum Number of Toys</td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Maximum_No_Of_Toys.cpp">Solution</td>
 </tr>
-
+<tr>
+<td>15 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/f72994353d123b925ff20f0694b662191df03ea2/1">Count the Substring</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Count_The_Substrings.cpp">Solution</a></td>
+</tr>
 </table>
