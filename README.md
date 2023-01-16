@@ -64,4 +64,9 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/f72994353d123b925ff20f0694b662191df03ea2/1">Count the Substring</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Count_The_Substrings.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>16 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1">Next Greater Element in Array</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Next_Greater_Elements.cpp">Solution</a></td>
+</tr>
 </table>
