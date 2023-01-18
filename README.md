@@ -69,4 +69,14 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1">Next Greater Element in Array</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Next_Greater_Elements.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>17 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/6eb51dc638ee1b936f38d1ab4b2f7062d4425463/1">Find the maximum GCD of siblings of binary tree.</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/maxGCD.cpp">Solution</td>
+</tr>
+<tr>
+<td>18 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1">Find the first node of loop in linked list</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Find_first_node.cpp">Solution</a></td>
+</tr>
 </table>
