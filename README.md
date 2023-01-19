@@ -79,4 +79,8 @@ solved are uploaded here.
 <td><a href="https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1">Find the first node of loop in linked list</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Find_first_node.cpp">Solution</a></td>
 </tr>
+<tr>
+<td>19 January 2023</td>
+<td><a href="https://practice.geeksforgeeks.org/problems/230d87552a332a2970b2092451334a007f2b0eec/1">Carpet into Box</a></td>
+<td><a href="https://github.com/pratikvairat/Problem_Of_Day_GFG/blob/main/Carpet_into_Box.cpp">Solution</a></td>
 </table>
