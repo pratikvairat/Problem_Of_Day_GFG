@@ -1,16 +1,19 @@
 class Solution{
     public:
-    int carpetBox(int A, int B, int C, int D) {
+    int carpetBox(int Abhay, int Bat, int Cat, int Dog) {
 
-        if((A<=C&&B<=D) || (B<=C&&A<=D)){
+        if((Abhay<=Cat&&Bat<=Dog) || (Bat<=Cat&&Abhay<=Dog)){
             return 0;  
         } 
-        if(A>C && A>D){
-            return 1+carpetBox(A/2,B,C,D);  
+
+        
+        if(Abhay>Cat && Abhay>Dog){
+            return 1+carpetBox(Abhay/2,Bat,Cat,Dog);  
         } 
-        if(B>C && B>D){
-            return 1+carpetBox(A,B/2,C,D);
+        
+        if(Bat>Cat && Bat>Dog){
+            return 1+carpetBox(Abhay,Bat/2,Cat,Dog);
         } 
-        return min(1+carpetBox(A/2,B,C,D), 1+carpetBox(A,B/2,C,D));
+        return min(1+carpetBox(Abhay/2,Bat,Cat,Dog), 1+carpetBox(Abhay,Bat/2,Cat,Dog));
     }
 };
